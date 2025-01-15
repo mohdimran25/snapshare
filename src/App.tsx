@@ -2,10 +2,11 @@ import { Routes, Route } from 'react-router-dom';
 import SignInForm from './_auth/forms/SignInForm';
 import { Home } from './_root/pages';
 import SignUpForm from './_auth/forms/SignUpForm';
-
-import './globals.css'  
 import AuthLayout from './_auth/AuthLayout';
 import RootLayout from './_root/RootLayout';
+
+import './globals.css'  
+
 
 
 
